@@ -17,7 +17,7 @@ Linux Basics | Python (Basic) | Cyber Reporting
 - Cyber Awareness Blog Posts
 
 📖 Learning silently. Building powerfully.
-<p align="center">
+<p align="left">
   🌟 “To outsmart a hacker, you need to think like one.” 🌟
 </p>
 Let's connect for cyber projects, awareness work, or collaborations.
