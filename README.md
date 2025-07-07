@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nishi Chiring Phukan
 
-<!--
-**ncp-secure/ncp-secure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 🛡️ Aspiring Cybersecurity Analyst | 🖥️ Former Infosys System Engineer
 
-Here are some ideas to get you started:
+🔍 Currently learning and practicing:
+- Ethical Hacking (Udemy Hands-on Labs)
+- Social Engineering & Phishing Simulations
+- Network Security, Kali Linux, Nmap, Wireshark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills in Progress:
+Kali Linux | Nmap | Hydra | Wireshark | Burp Suite  
+Linux Basics | Python (Basic) | Cyber Reporting  
+
+🚀 Projects coming soon:
+- TryHackMe Lab Write-ups
+- Phishing Simulation Reports
+- Cyber Awareness Blog Posts
+
+📖 Learning silently. Building powerfully.  
+Let's connect for cyber projects, awareness work, or collaborations.
+
+🔗 [My GitHub Portfolio](https://github.com/ncp-secure)
