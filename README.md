@@ -16,7 +16,10 @@ Linux Basics | Python (Basic) | Cyber Reporting
 - Phishing Simulation Reports
 - Cyber Awareness Blog Posts
 
-📖 Learning silently. Building powerfully.  
+📖 Learning silently. Building powerfully.
+<p align="center">
+  🌟 “To outsmart a hacker, you need to think like one.” 🌟
+</p>
 Let's connect for cyber projects, awareness work, or collaborations.
 
 🔗 [My GitHub Portfolio](https://github.com/ncp-secure)
