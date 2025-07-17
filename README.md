@@ -23,3 +23,10 @@ Linux Basics | Python (Basic) | Cyber Reporting
 Let's connect for cyber projects, awareness work, or collaborations.
 
 🔗 [My GitHub Portfolio](https://github.com/ncp-secure)
+
+<details>
+  <summary>Visitor Count</summary>
+
+  ![Visitor Count](https://profile-counter.glitch.me/ncp-secure/count.svg)
+
+</details>
