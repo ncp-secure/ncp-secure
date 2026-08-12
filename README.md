@@ -19,7 +19,7 @@ Linux Basics | Cyber Reporting
 
 📖 Learning silently. Building powerfully.
 <p align="left">
-  🌟 “To outsmart a hacker, you need to think like one.” 🌟
+  🌟 “To outsmart an adversary, you have to build the trap they don't see coming.” 🌟
 </p>
 Let's connect for cyber projects, awareness work, or collaborations.
 
