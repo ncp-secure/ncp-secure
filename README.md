@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishi Chiring Phukan
 
-🎓 MCA Graduate | 🛡️ Aspiring  AI Agentic Cybersecurity Analyst | 🖥️ Former Infosys System Engineer
+🛡️ Aspiring  AI Agentic Cybersecurity Analyst | 🖥️ Former Infosys System Engineer
 
 🔍 Currently learning and practicing:
 - Ethical Hacking (Udemy Hands-on Labs)
