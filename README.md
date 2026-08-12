@@ -3,13 +3,14 @@
 🛡️ Aspiring  AI Agentic Cybersecurity Analyst | 🖥️ Former Infosys System Engineer
 
 🔍 Currently learning and practicing:
+- Agentic AI
 - Ethical Hacking (Udemy Hands-on Labs)
 - Social Engineering & Phishing Simulations
 - Network Security, Kali Linux, Nmap, Wireshark
 
 🛠️ Skills in Progress:
-Kali Linux | Nmap | Hydra | Wireshark | Burp Suite  
-Linux Basics | Python (Basic) | Cyber Reporting  
+Python|Langchain|Kali Linux | Nmap | Hydra | Wireshark | Burp Suite  
+Linux Basics | Cyber Reporting  
 
 🚀 Projects coming soon:
 - TryHackMe Lab Write-ups
